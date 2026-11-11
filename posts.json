@@ -1,1 +1,674 @@
-[]
+[
+ {
+  "slug": "2026-11-11-2611.12705",
+  "date": "2026-11-11",
+  "arxiv_id": "2611.12705",
+  "title": "Three Agents Agreed. So What Did They Miss?",
+  "subtitle": "A short theory paper makes the case for sampling the discard pile in agentic e-discovery review.",
+  "path": "posts/2026-11-11-2611.12705.html"
+ },
+ {
+  "slug": "2026-11-11-2611.12167",
+  "date": "2026-11-11",
+  "arxiv_id": "2611.12167",
+  "title": "Would Your AI Agent Hide the Bad News From a Client?",
+  "subtitle": "A new benchmark built on real U.S. fraud cases says the answer depends a lot on how much autonomy you give it.",
+  "path": "posts/2026-11-11-2611.12167.html"
+ },
+ {
+  "slug": "2026-11-11-2611.11306",
+  "date": "2026-11-11",
+  "arxiv_id": "2611.11306",
+  "title": "My Agent Read the Terms of Service and Scraped the Site Anyway",
+  "subtitle": "ScrapeBench tests whether AI agents follow website scraping rules, and the results should get the attention of anyone running research agents.",
+  "path": "posts/2026-11-11-2611.11306.html"
+ },
+ {
+  "slug": "2026-11-09-2611.09113",
+  "date": "2026-11-09",
+  "arxiv_id": "2611.09113",
+  "title": "When Your AI Agent Takes the Shortcut Nobody Authorized",
+  "subtitle": "",
+  "path": "posts/2026-11-09-2611.09113.html"
+ },
+ {
+  "slug": "2026-11-09-2611.08834",
+  "date": "2026-11-09",
+  "arxiv_id": "2611.08834",
+  "title": "Your Prompt Injection Guard Has Never Read a Contract",
+  "subtitle": "",
+  "path": "posts/2026-11-09-2611.08834.html"
+ },
+ {
+  "slug": "2026-11-09-2611.08672",
+  "date": "2026-11-09",
+  "arxiv_id": "2611.08672",
+  "title": "What 80,465 Tasks Tell Us About Rolling Out AI to Professionals",
+  "subtitle": "",
+  "path": "posts/2026-11-09-2611.08672.html"
+ },
+ {
+  "slug": "2026-11-06-2611.07650",
+  "date": "2026-11-06",
+  "arxiv_id": "2611.07650",
+  "title": "Discount Models, Mystery Tokens: Do You Know What Your AI Reseller Is Delivering?",
+  "subtitle": "",
+  "path": "posts/2026-11-06-2611.07650.html"
+ },
+ {
+  "slug": "2026-11-06-2611.07378",
+  "date": "2026-11-06",
+  "arxiv_id": "2611.07378",
+  "title": "Cherry-Picked Models: Expert Witnesses, Meet the Hyperparameter",
+  "subtitle": "",
+  "path": "posts/2026-11-06-2611.07378.html"
+ },
+ {
+  "slug": "2026-11-06-2611.07042",
+  "date": "2026-11-06",
+  "arxiv_id": "2611.07042",
+  "title": "Who Wrote the Answer Key? A Benchmark Audit Worth Reading Before Your Next AI Pilot",
+  "subtitle": "",
+  "path": "posts/2026-11-06-2611.07042.html"
+ },
+ {
+  "slug": "2026-11-05-2611.06655",
+  "date": "2026-11-05",
+  "arxiv_id": "2611.06655",
+  "title": "Same Question, Different Answer",
+  "subtitle": "",
+  "path": "posts/2026-11-05-2611.06655.html"
+ },
+ {
+  "slug": "2026-11-05-2611.06116",
+  "date": "2026-11-05",
+  "arxiv_id": "2611.06116",
+  "title": "Who Validated the Harness?",
+  "subtitle": "",
+  "path": "posts/2026-11-05-2611.06116.html"
+ },
+ {
+  "slug": "2026-11-05-2611.05662",
+  "date": "2026-11-05",
+  "arxiv_id": "2611.05662",
+  "title": "When the AI Reviewer Defers to the Note in the File",
+  "subtitle": "",
+  "path": "posts/2026-11-05-2611.05662.html"
+ },
+ {
+  "slug": "2026-11-04-2611.04546",
+  "date": "2026-11-04",
+  "arxiv_id": "2611.04546",
+  "title": "Can an AI Assistant Pass the EU AI Act Exam?",
+  "subtitle": "",
+  "path": "posts/2026-11-04-2611.04546.html"
+ },
+ {
+  "slug": "2026-11-04-2611.02319",
+  "date": "2026-11-04",
+  "arxiv_id": "2611.02319",
+  "title": "The Agent Looked at the File and Never Said a Word",
+  "subtitle": "",
+  "path": "posts/2026-11-04-2611.02319.html"
+ },
+ {
+  "slug": "2026-11-04-2611.01313",
+  "date": "2026-11-04",
+  "arxiv_id": "2611.01313",
+  "title": "Ask for Sources and the Model Starts Making Them Up",
+  "subtitle": "",
+  "path": "posts/2026-11-04-2611.01313.html"
+ },
+ {
+  "slug": "2026-11-03-2610.41885",
+  "date": "2026-11-03",
+  "arxiv_id": "2610.41885",
+  "title": "What Your Agent's Tool Calls Say About You",
+  "subtitle": "",
+  "path": "posts/2026-11-03-2610.41885.html"
+ },
+ {
+  "slug": "2026-11-03-2610.41866",
+  "date": "2026-11-03",
+  "arxiv_id": "2610.41866",
+  "title": "Who Wrote Your Cover Letter? The AI Screener Wants to Know...",
+  "subtitle": "",
+  "path": "posts/2026-11-03-2610.41866.html"
+ },
+ {
+  "slug": "2026-11-03-2610.40716",
+  "date": "2026-11-03",
+  "arxiv_id": "2610.40716",
+  "title": "My Agent Said It Didn't Run the Code. The Logs Disagreed.",
+  "subtitle": "",
+  "path": "posts/2026-11-03-2610.40716.html"
+ },
+ {
+  "slug": "2026-10-30-2610.39377",
+  "date": "2026-10-30",
+  "arxiv_id": "2610.39377",
+  "title": "Trust, But Check the Logs",
+  "subtitle": "",
+  "path": "posts/2026-10-30-2610.39377.html"
+ },
+ {
+  "slug": "2026-10-30-2610.38687",
+  "date": "2026-10-30",
+  "arxiv_id": "2610.38687",
+  "title": "Knowing When to Say 'I Don't Know'",
+  "subtitle": "",
+  "path": "posts/2026-10-30-2610.38687.html"
+ },
+ {
+  "slug": "2026-10-30-2610.38076",
+  "date": "2026-10-30",
+  "arxiv_id": "2610.38076",
+  "title": "Winning the Prompt Lottery",
+  "subtitle": "",
+  "path": "posts/2026-10-30-2610.38076.html"
+ },
+ {
+  "slug": "2026-10-28-2610.37467",
+  "date": "2026-10-28",
+  "arxiv_id": "2610.37467",
+  "title": "Who Else Is Reading Your Prompts?",
+  "subtitle": "",
+  "path": "posts/2026-10-28-2610.37467.html"
+ },
+ {
+  "slug": "2026-10-28-2610.36801",
+  "date": "2026-10-28",
+  "arxiv_id": "2610.36801",
+  "title": "Are You Getting the Model You Paid For?",
+  "subtitle": "",
+  "path": "posts/2026-10-28-2610.36801.html"
+ },
+ {
+  "slug": "2026-10-28-2610.36405",
+  "date": "2026-10-28",
+  "arxiv_id": "2610.36405",
+  "title": "Twenty-Five Minutes for a Five-Year VAT Reconstruction",
+  "subtitle": "",
+  "path": "posts/2026-10-28-2610.36405.html"
+ },
+ {
+  "slug": "2026-10-27-2610.35835",
+  "date": "2026-10-27",
+  "arxiv_id": "2610.35835",
+  "title": "The Agent Approved Its Own Request",
+  "subtitle": "Why a human-in-the-loop email may be a thinner safety net than we think",
+  "path": "posts/2026-10-27-2610.35835.html"
+ },
+ {
+  "slug": "2026-10-27-2610.34167",
+  "date": "2026-10-27",
+  "arxiv_id": "2610.34167",
+  "title": "Your AI Agent Finished the Job. Then It Emailed the Wrong Person.",
+  "subtitle": "A new benchmark measures what agents break on the way to getting the task done",
+  "path": "posts/2026-10-27-2610.34167.html"
+ },
+ {
+  "slug": "2026-10-27-2610.33102",
+  "date": "2026-10-27",
+  "arxiv_id": "2610.33102",
+  "title": "Who's Going to Train the Partners of 2035?",
+  "subtitle": "An economics paper puts numbers on the associate pipeline problem we keep talking around",
+  "path": "posts/2026-10-27-2610.33102.html"
+ },
+ {
+  "slug": "2026-10-26-2610.32461",
+  "date": "2026-10-26",
+  "arxiv_id": "2610.32461",
+  "title": "Copilot Made People Talk More? Huh.",
+  "subtitle": "",
+  "path": "posts/2026-10-26-2610.32461.html"
+ },
+ {
+  "slug": "2026-10-26-2610.32110",
+  "date": "2026-10-26",
+  "arxiv_id": "2610.32110",
+  "title": "Who Is Reading the Fine Print on the Search Results?",
+  "subtitle": "",
+  "path": "posts/2026-10-26-2610.32110.html"
+ },
+ {
+  "slug": "2026-10-26-2610.31993",
+  "date": "2026-10-26",
+  "arxiv_id": "2610.31993",
+  "title": "Which Jurisdiction Does Your AI Think It's In?",
+  "subtitle": "",
+  "path": "posts/2026-10-26-2610.31993.html"
+ },
+ {
+  "slug": "2026-10-23-2610.31579",
+  "date": "2026-10-23",
+  "arxiv_id": "2610.31579",
+  "title": "Who's Really Being Sycophantic Here?",
+  "subtitle": "",
+  "path": "posts/2026-10-23-2610.31579.html"
+ },
+ {
+  "slug": "2026-10-23-2610.31366",
+  "date": "2026-10-23",
+  "arxiv_id": "2610.31366",
+  "title": "What Happens When You Ask an AI Agent to Forget?",
+  "subtitle": "",
+  "path": "posts/2026-10-23-2610.31366.html"
+ },
+ {
+  "slug": "2026-10-23-2610.30355",
+  "date": "2026-10-23",
+  "arxiv_id": "2610.30355",
+  "title": "Finding the Fake Cite Is the Easy Part",
+  "subtitle": "",
+  "path": "posts/2026-10-23-2610.30355.html"
+ },
+ {
+  "slug": "2026-10-22-2610.30026",
+  "date": "2026-10-22",
+  "arxiv_id": "2610.30026",
+  "title": "Your AI Can't See the Yellow Highlighter",
+  "subtitle": "",
+  "path": "posts/2026-10-22-2610.30026.html"
+ },
+ {
+  "slug": "2026-10-22-2610.29961",
+  "date": "2026-10-22",
+  "arxiv_id": "2610.29961",
+  "title": "What Does Your Legal AI Do When the Right Case Isn't There?",
+  "subtitle": "",
+  "path": "posts/2026-10-22-2610.29961.html"
+ },
+ {
+  "slug": "2026-10-22-2610.29477",
+  "date": "2026-10-22",
+  "arxiv_id": "2610.29477",
+  "title": "Will Your AI Assistant Help You Break the Rules?",
+  "subtitle": "",
+  "path": "posts/2026-10-22-2610.29477.html"
+ },
+ {
+  "slug": "2026-10-21-2610.27620",
+  "date": "2026-10-21",
+  "arxiv_id": "2610.27620",
+  "title": "Every Step Approved, and the Policy Still Got Broken",
+  "subtitle": "Why per-action guardrails on AI agents can't enforce an ethical wall by themselves",
+  "path": "posts/2026-10-21-2610.27620.html"
+ },
+ {
+  "slug": "2026-10-21-2610.27548",
+  "date": "2026-10-21",
+  "arxiv_id": "2610.27548",
+  "title": "One in Five: When Your AI Agent Goes Beyond Its Authority",
+  "subtitle": "A new benchmark puts a number on something every lawyer learned in Agency",
+  "path": "posts/2026-10-21-2610.27548.html"
+ },
+ {
+  "slug": "2026-10-21-2610.26946",
+  "date": "2026-10-21",
+  "arxiv_id": "2610.26946",
+  "title": "65 Claims About an Empty Phone",
+  "subtitle": "What a new forensic reporting study tells litigators about AI-drafted expert work",
+  "path": "posts/2026-10-21-2610.26946.html"
+ },
+ {
+  "slug": "2026-10-20-2610.26211",
+  "date": "2026-10-20",
+  "arxiv_id": "2610.26211",
+  "title": "Hi, I'm a Lawyer... and Now the AI Won't Help Me",
+  "subtitle": "",
+  "path": "posts/2026-10-20-2610.26211.html"
+ },
+ {
+  "slug": "2026-10-20-2610.25954",
+  "date": "2026-10-20",
+  "arxiv_id": "2610.25954",
+  "title": "The Agent Got the Right Answer. Did It Follow the Rules?",
+  "subtitle": "",
+  "path": "posts/2026-10-20-2610.25954.html"
+ },
+ {
+  "slug": "2026-10-20-2610.25279",
+  "date": "2026-10-20",
+  "arxiv_id": "2610.25279",
+  "title": "Does the Lawyer in the Loop Make the Same Mistakes as the AI?",
+  "subtitle": "",
+  "path": "posts/2026-10-20-2610.25279.html"
+ },
+ {
+  "slug": "2026-10-19-2610.23530",
+  "date": "2026-10-19",
+  "arxiv_id": "2610.23530",
+  "title": "Everyone's a Builder Now. Who's Checking the Bots?",
+  "subtitle": "",
+  "path": "posts/2026-10-19-2610.23530.html"
+ },
+ {
+  "slug": "2026-10-19-2610.22781",
+  "date": "2026-10-19",
+  "arxiv_id": "2610.22781",
+  "title": "How Would You Know If Your AI Vendor Downgraded You?",
+  "subtitle": "",
+  "path": "posts/2026-10-19-2610.22781.html"
+ },
+ {
+  "slug": "2026-10-19-2610.22631",
+  "date": "2026-10-19",
+  "arxiv_id": "2610.22631",
+  "title": "Show Your Work... and the AI Grader Goes Easy on You",
+  "subtitle": "",
+  "path": "posts/2026-10-19-2610.22631.html"
+ },
+ {
+  "slug": "2026-10-16-2610.21300",
+  "date": "2026-10-16",
+  "arxiv_id": "2610.21300",
+  "title": "Same File, Same Prompt, Different Answer",
+  "subtitle": "A medical device paper shows why temperature zero won't give your AI review an audit trail",
+  "path": "posts/2026-10-16-2610.21300.html"
+ },
+ {
+  "slug": "2026-10-16-2610.21128",
+  "date": "2026-10-16",
+  "arxiv_id": "2610.21128",
+  "title": "When the AI Agrees With Itself and Is Still Wrong",
+  "subtitle": "Why \"run it three times\" is a weak check for legal AI output",
+  "path": "posts/2026-10-16-2610.21128.html"
+ },
+ {
+  "slug": "2026-10-16-2610.21063",
+  "date": "2026-10-16",
+  "arxiv_id": "2610.21063",
+  "title": "You Clicked Approve. On What, Exactly?",
+  "subtitle": "A new paper tests the human approval step that every legal AI agent pitch depends on",
+  "path": "posts/2026-10-16-2610.21063.html"
+ },
+ {
+  "slug": "2026-10-15-2610.19992",
+  "date": "2026-10-15",
+  "arxiv_id": "2610.19992",
+  "title": "Who Graded the Robot's Bar Exam?",
+  "subtitle": "A new paper on LLM grading of legal answers hands us a checklist for every legal AI benchmark claim",
+  "path": "posts/2026-10-15-2610.19992.html"
+ },
+ {
+  "slug": "2026-10-15-2610.19264",
+  "date": "2026-10-15",
+  "arxiv_id": "2610.19264",
+  "title": "What's Really Inside That AI Skill?",
+  "subtitle": "A study of 6,309 agent skills finds most listings understate what the code can do",
+  "path": "posts/2026-10-15-2610.19264.html"
+ },
+ {
+  "slug": "2026-10-15-2610.19158",
+  "date": "2026-10-15",
+  "arxiv_id": "2610.19158",
+  "title": "What Did the Agent Tell WhatsApp?",
+  "subtitle": "A new benchmark shows workplace AI agents leaking information in a third or more of their runs",
+  "path": "posts/2026-10-15-2610.19158.html"
+ },
+ {
+  "slug": "2026-10-14-2610.18230",
+  "date": "2026-10-14",
+  "arxiv_id": "2610.18230",
+  "title": "Would Your AI Vendor Put Money Behind Its Promises?",
+  "subtitle": "A proposal for agent insurance gives firms a new way to think about liability in AI contracts.",
+  "path": "posts/2026-10-14-2610.18230.html"
+ },
+ {
+  "slug": "2026-10-14-2610.17719",
+  "date": "2026-10-14",
+  "arxiv_id": "2610.17719",
+  "title": "Overruled, But Still in the Graph",
+  "subtitle": "A new paper asks what happens to AI knowledge graphs when a source behind them goes bad.",
+  "path": "posts/2026-10-14-2610.17719.html"
+ },
+ {
+  "slug": "2026-10-14-2610.16039",
+  "date": "2026-10-14",
+  "arxiv_id": "2610.16039",
+  "title": "Who Is Watching What the Agents Say to Each Other?",
+  "subtitle": "A new paper on multi-agent privacy leakage reads a lot like an ethical wall problem.",
+  "path": "posts/2026-10-14-2610.16039.html"
+ },
+ {
+  "slug": "2026-10-12-2610.13823",
+  "date": "2026-10-12",
+  "arxiv_id": "2610.13823",
+  "title": "Run It Again... and Watch the Answer Change",
+  "subtitle": "",
+  "path": "posts/2026-10-12-2610.13823.html"
+ },
+ {
+  "slug": "2026-10-12-2610.13623",
+  "date": "2026-10-12",
+  "arxiv_id": "2610.13623",
+  "title": "The Agent Turned In a Perfect Memo. It Also Did Something Else.",
+  "subtitle": "",
+  "path": "posts/2026-10-12-2610.13623.html"
+ },
+ {
+  "slug": "2026-10-12-2610.13340",
+  "date": "2026-10-12",
+  "arxiv_id": "2610.13340",
+  "title": "Who Can Say No? Law Firms Already Have a Head Start on That One",
+  "subtitle": "",
+  "path": "posts/2026-10-12-2610.13340.html"
+ },
+ {
+  "slug": "2026-10-09-2610.12361",
+  "date": "2026-10-09",
+  "arxiv_id": "2610.12361",
+  "title": "Cited but Not Consulted: When the AI Names the Statute and Ignores It",
+  "subtitle": "A new counterfactual test shows that a legal citation in an AI explanation may have little to do with the answer",
+  "path": "posts/2026-10-09-2610.12361.html"
+ },
+ {
+  "slug": "2026-10-09-2610.12313",
+  "date": "2026-10-09",
+  "arxiv_id": "2610.12313",
+  "title": "If I Change the Policy, Will the AI Notice?",
+  "subtitle": "A study of LLM compliance screening finds verdicts that often stay the same when the rule is deleted or reversed",
+  "path": "posts/2026-10-09-2610.12313.html"
+ },
+ {
+  "slug": "2026-10-09-2610.10971",
+  "date": "2026-10-09",
+  "arxiv_id": "2610.10971",
+  "title": "The Citation Was Real. The Support Wasn't.",
+  "subtitle": "A new benchmark built from New York Court of Appeals opinions shows where AI cite-checkers still slip",
+  "path": "posts/2026-10-09-2610.10971.html"
+ },
+ {
+  "slug": "2026-10-08-2610.09581",
+  "date": "2026-10-08",
+  "arxiv_id": "2610.09581",
+  "title": "What Did the Agent Rely On?",
+  "subtitle": "A study of AI-reconstructed agent logs shows a right answer can point to the wrong record",
+  "path": "posts/2026-10-08-2610.09581.html"
+ },
+ {
+  "slug": "2026-10-08-2610.09458",
+  "date": "2026-10-08",
+  "arxiv_id": "2610.09458",
+  "title": "Your AI Just Gave You Ohio's Number for a Texas Question",
+  "subtitle": "A new study of state-by-state recall shows why 50-state surveys need their own kind of check",
+  "path": "posts/2026-10-08-2610.09458.html"
+ },
+ {
+  "slug": "2026-10-08-2610.09371",
+  "date": "2026-10-08",
+  "arxiv_id": "2610.09371",
+  "title": "Are You Sure About That?",
+  "subtitle": "New research shows an AI agent with a reason to look good will overstate how likely it is to get the job right",
+  "path": "posts/2026-10-08-2610.09371.html"
+ },
+ {
+  "slug": "2026-10-07-2610.08036",
+  "date": "2026-10-07",
+  "arxiv_id": "2610.08036",
+  "title": "Press the Button Twice",
+  "subtitle": "A new paper measures how much frontier AI models change their answers when you run the same job again, and why legal teams should care",
+  "path": "posts/2026-10-07-2610.08036.html"
+ },
+ {
+  "slug": "2026-10-07-2610.07480",
+  "date": "2026-10-07",
+  "arxiv_id": "2610.07480",
+  "title": "Your Old Templates Just Got Interesting Again",
+  "subtitle": "Marc Lauritsen and Hannes Westermann on pairing classic legal document automation with generative AI",
+  "path": "posts/2026-10-07-2610.07480.html"
+ },
+ {
+  "slug": "2026-10-07-2610.07459",
+  "date": "2026-10-07",
+  "arxiv_id": "2610.07459",
+  "title": "Who Writes the Record?",
+  "subtitle": "A new arXiv paper gives us a better way to check the claims vendors make about their AI agents",
+  "path": "posts/2026-10-07-2610.07459.html"
+ },
+ {
+  "slug": "2026-10-06-2610.06439",
+  "date": "2026-10-06",
+  "arxiv_id": "2610.06439",
+  "title": "The Saul Goodman Effect",
+  "subtitle": "",
+  "path": "posts/2026-10-06-2610.06439.html"
+ },
+ {
+  "slug": "2026-10-06-2610.05547",
+  "date": "2026-10-06",
+  "arxiv_id": "2610.05547",
+  "title": "How Much of That AI Memo Did You Actually Check?",
+  "subtitle": "",
+  "path": "posts/2026-10-06-2610.05547.html"
+ },
+ {
+  "slug": "2026-10-06-2610.04129",
+  "date": "2026-10-06",
+  "arxiv_id": "2610.04129",
+  "title": "Can an AI Agent Work a Summary Judgment Record?",
+  "subtitle": "",
+  "path": "posts/2026-10-06-2610.04129.html"
+ },
+ {
+  "slug": "2026-10-05-2610.03639",
+  "date": "2026-10-05",
+  "arxiv_id": "2610.03639",
+  "title": "What a Colombian Law Benchmark Tells U.S. Firms About AI Answers",
+  "subtitle": "",
+  "path": "posts/2026-10-05-2610.03639.html"
+ },
+ {
+  "slug": "2026-10-05-2610.03190",
+  "date": "2026-10-05",
+  "arxiv_id": "2610.03190",
+  "title": "Case Closed... According to the Robot",
+  "subtitle": "",
+  "path": "posts/2026-10-05-2610.03190.html"
+ },
+ {
+  "slug": "2026-10-05-2610.02664",
+  "date": "2026-10-05",
+  "arxiv_id": "2610.02664",
+  "title": "Did You Forget What I Told You an Hour Ago?",
+  "subtitle": "",
+  "path": "posts/2026-10-05-2610.02664.html"
+ },
+ {
+  "slug": "2026-10-02-2610.01768",
+  "date": "2026-10-02",
+  "arxiv_id": "2610.01768",
+  "title": "The Courier Doesn't Know What's in the Envelope",
+  "subtitle": "A new paper shows how an AI assistant's web-fetch tool can carry confidential data out of the building",
+  "path": "posts/2026-10-02-2610.01768.html"
+ },
+ {
+  "slug": "2026-10-02-2610.01508",
+  "date": "2026-10-02",
+  "arxiv_id": "2610.01508",
+  "title": "Building an Ethical Wall for an AI Agent That Keeps Reaching",
+  "subtitle": "Every model tested in a new benchmark pulled more private data than the request needed",
+  "path": "posts/2026-10-02-2610.01508.html"
+ },
+ {
+  "slug": "2026-10-02-2610.00609",
+  "date": "2026-10-02",
+  "arxiv_id": "2610.00609",
+  "title": "42.9%: Grading Legal Research Agents Like a Partner Grades a Memo",
+  "subtitle": "Legal Research Bench sets an all-or-nothing bar, and the best model clears it on fewer than half the questions",
+  "path": "posts/2026-10-02-2610.00609.html"
+ },
+ {
+  "slug": "2026-10-01-2609.39607",
+  "date": "2026-10-01",
+  "arxiv_id": "2609.39607",
+  "title": "AI Skills Are the New Macros",
+  "subtitle": "A new paper shows how easily malicious agent skills slip past scanners, and why firms need a person in the review loop",
+  "path": "posts/2026-10-01-2609.39607.html"
+ },
+ {
+  "slug": "2026-10-01-2609.39026",
+  "date": "2026-10-01",
+  "arxiv_id": "2609.39026",
+  "title": "Every Citation Checks Out. So Why Is the Memo Wrong?",
+  "subtitle": "A new paper on deep research agents puts numbers behind a problem research librarians have known about for decades",
+  "path": "posts/2026-10-01-2609.39026.html"
+ },
+ {
+  "slug": "2026-10-01-2609.38427",
+  "date": "2026-10-01",
+  "arxiv_id": "2609.38427",
+  "title": "The Detector Said 'AI.' Now What?",
+  "subtitle": "A new paper explains why AI detectors make a shaky enforcement tool for AI policies, and what a fairer compliance check could look like",
+  "path": "posts/2026-10-01-2609.38427.html"
+ },
+ {
+  "slug": "2026-09-30-2609.37783",
+  "date": "2026-09-30",
+  "arxiv_id": "2609.37783",
+  "title": "Is That Dashcam Photo Real? The Detectors Aren't Ready to Tell You",
+  "subtitle": "A new benchmark of courtroom-style images shows how far AI manipulation detection has to go before litigators can lean on it",
+  "path": "posts/2026-09-30-2609.37783.html"
+ },
+ {
+  "slug": "2026-09-30-2609.36228",
+  "date": "2026-09-30",
+  "arxiv_id": "2609.36228",
+  "title": "Your Client's AI Act Checker Says They're Fine. Now What?",
+  "subtitle": "The first empirical study of EU AI Act compliance checker tools finds they skip obligations and give guidance you can't act on",
+  "path": "posts/2026-09-30-2609.36228.html"
+ },
+ {
+  "slug": "2026-09-30-2609.36139",
+  "date": "2026-09-30",
+  "arxiv_id": "2609.36139",
+  "title": "Be Honest in Your Response",
+  "subtitle": "A new study finds AI agents bury the bad news in their reports, and one short sentence mostly fixes it",
+  "path": "posts/2026-09-30-2609.36139.html"
+ },
+ {
+  "slug": "2026-09-29-2609.35732",
+  "date": "2026-09-29",
+  "arxiv_id": "2609.35732",
+  "title": "\"Done!\" Said the Agent. It Wasn't.",
+  "subtitle": "A new benchmark measures how often AI agents claim success after a failed step, and a simple rule that nearly fixed it",
+  "path": "posts/2026-09-29-2609.35732.html"
+ },
+ {
+  "slug": "2026-09-29-2609.32495",
+  "date": "2026-09-29",
+  "arxiv_id": "2609.32495",
+  "title": "Hearsay: Who Wrote the Agent's Log?",
+  "subtitle": "A new paper asks whether anyone can trust the record an AI agent writes about itself",
+  "path": "posts/2026-09-29-2609.32495.html"
+ },
+ {
+  "slug": "2026-09-29-2609.31622",
+  "date": "2026-09-29",
+  "arxiv_id": "2609.31622",
+  "title": "We're All Multi-Lab Shops Now",
+  "subtitle": "A new paper on juggling several AI providers reads a lot like a law firm budget meeting",
+  "path": "posts/2026-09-29-2609.31622.html"
+ }
+]
