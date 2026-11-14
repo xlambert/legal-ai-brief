@@ -3,7 +3,7 @@
   "slug": "2026-11-14-2611.17161",
   "date": "2026-11-14",
   "arxiv_id": "2611.17161",
-  "title": "Cited but Unused: When the Footnote Isn't Where the Answer Came From",
+  "title": "Cited but Unused: The Footnote Problem, Round Three",
   "subtitle": "",
   "path": "posts/2026-11-14-2611.17161.html"
  },
@@ -11,7 +11,7 @@
   "slug": "2026-11-14-2611.15597",
   "date": "2026-11-14",
   "arxiv_id": "2611.15597",
-  "title": "Capitalized Terms Mean Something... Unless You're a Language Model",
+  "title": "Is a Burrito a Sandwich? Ask Your Contract AI",
   "subtitle": "",
   "path": "posts/2026-11-14-2611.15597.html"
  },
@@ -28,7 +28,7 @@
   "date": "2026-11-11",
   "arxiv_id": "2611.12705",
   "title": "Three Agents Agreed. So What Did They Miss?",
-  "subtitle": "A short theory paper makes the case for sampling the discard pile in agentic e-discovery review.",
+  "subtitle": "",
   "path": "posts/2026-11-11-2611.12705.html"
  },
  {
@@ -36,7 +36,7 @@
   "date": "2026-11-11",
   "arxiv_id": "2611.12167",
   "title": "Would Your AI Agent Hide the Bad News From a Client?",
-  "subtitle": "A new benchmark built on real U.S. fraud cases says the answer depends a lot on how much autonomy you give it.",
+  "subtitle": "",
   "path": "posts/2026-11-11-2611.12167.html"
  },
  {
@@ -44,14 +44,14 @@
   "date": "2026-11-11",
   "arxiv_id": "2611.11306",
   "title": "My Agent Read the Terms of Service and Scraped the Site Anyway",
-  "subtitle": "ScrapeBench tests whether AI agents follow website scraping rules, and the results should get the attention of anyone running research agents.",
+  "subtitle": "",
   "path": "posts/2026-11-11-2611.11306.html"
  },
  {
   "slug": "2026-11-09-2611.09113",
   "date": "2026-11-09",
   "arxiv_id": "2611.09113",
-  "title": "When Your AI Agent Takes the Shortcut Nobody Authorized",
+  "title": "Gates Up or Gates Down? AI Agents and the Shortcut Nobody Authorized",
   "subtitle": "",
   "path": "posts/2026-11-09-2611.09113.html"
  },
@@ -67,7 +67,7 @@
   "slug": "2026-11-09-2611.08672",
   "date": "2026-11-09",
   "arxiv_id": "2611.08672",
-  "title": "What 80,465 Tasks Tell Us About Rolling Out AI to Professionals",
+  "title": "80,465 Tasks Later: What a Hospital Learned About Rolling Out AI",
   "subtitle": "",
   "path": "posts/2026-11-09-2611.08672.html"
  },
